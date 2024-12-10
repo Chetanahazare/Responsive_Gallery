@@ -16,4 +16,4 @@ A simple and responsive image gallery that adjusts its layout based on the scree
 ## Setup Instructions
 1. Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/your-username/image-gallery.git
+   git clone https://github.com/Chetanahazare/Responsive_Gallery.git
